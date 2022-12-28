@@ -1,0 +1,10 @@
+version 0.0.3 
+Code cleanup.
+
+version 0.0.2 
+Aplhabetized order.
+
+
+version 0.0.1 
+inital release.
+
